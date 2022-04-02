@@ -18,6 +18,7 @@ My technical skills include programming with Python & SQL, analyzing large datas
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 <img src="https://img.shields.io/badge/-Flask-4285F4?style=flat&logo=flask&logoColor=white">
 
+
 <img src="https://img.shields.io/badge/-Scikit%20Learn-4285F4?style=flat&logo=scikitlearn&logoColor=white">
 <img src="https://img.shields.io/badge/-TensorFlow-F29111?style=flat&logo=tensorflow&logoColor=FFFFFF">
 <img src = "https://img.shields.io/badge/-Keras-E34F26?style=flat&logo=Keras&logoColor=white">
