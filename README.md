@@ -15,7 +15,7 @@ My technical skills include programming with Python & SQL, analyzing large datas
 
 ---
 
-<h3> 🤝🏻 Connect with Me </h3>
+<h3 align="center"> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/aballa/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@aballa-blue?style=flat&logo=linkedin"></a>
