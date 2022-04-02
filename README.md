@@ -13,6 +13,11 @@ My technical skills include programming with Python & SQL, analyzing large datas
 ### Programming Languages
 <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
 
+### Learning
+<img src="https://img.shields.io/badge/-Amazon%20Web%20Services-F29111?style=flat&logo=amazon&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/-Docker-007ACC?style=flat&logo=docker&logoColor=white">
+
+
 ---
 
 <h3 align="center"> 🤝🏻 Connect with Me </h3>
