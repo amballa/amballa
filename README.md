@@ -14,7 +14,7 @@ My technical skills include programming with Python & SQL, analyzing large datas
 <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
 
 ### Learning
-<img src="https://img.shields.io/badge/-Tableau-1572B6?style=flat&logo=tableau&logoColor=white"><img src="https://img.shields.io/badge/-Amazon%20Web%20Services-F29111?style=flat&logo=amazon&logoColor=FFFFFF"><img src="https://img.shields.io/badge/-PyTorch-E34F26?style=flat&logo=PyTorch&logoColor=white">
+<img src="https://img.shields.io/badge/-Tableau-1572B6?style=flat&logo=tableau&logoColor=white"><img src="https://img.shields.io/badge/-Amazon%20Web%20Services-F29111?style=flat&logo=amazon&logoColor=FFFFFF"><img src="https://img.shields.io/badge/-PyTorch-E34F26?style=flat&logo=PyTorch&logoColor=white"><img src="https://img.shields.io/badge/-FastAPI-4DB33D?style=flat&logo=fastapi&logoColor=FFFFFF">
 
 ---
 
