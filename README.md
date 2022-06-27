@@ -14,7 +14,7 @@ My technical skills include programming with Python, querying databases with SQL
 <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
 
 ### Learning
-<img src="https://img.shields.io/badge/-PyTorch-E34F26?style=flat&logo=PyTorch&logoColor=white"><img src="https://img.shields.io/badge/-FastAPI-4DB33D?style=flat&logo=fastapi&logoColor=FFFFFF"><img src="https://img.shields.io/badge/-AWS%20RDS-F29111?style=flat&logo=amazon&logoColor=FFFFFF"><img src="https://img.shields.io/badge/-AWS%20Elastic%20Beanstalk-F29111?style=flat&logo=amazon&logoColor=FFFFFF"><img src="https://img.shields.io/badge/-AWS%20SageMaker-F29111?style=flat&logo=amazon&logoColor=FFFFFF"><img src="https://img.shields.io/badge/-Hadoop-red?style=flat&logo=apache&logoColor=white">
+<img src="https://img.shields.io/badge/-PyTorch-E34F26?style=flat&logo=PyTorch&logoColor=white"><img src="https://img.shields.io/badge/-FastAPI-4DB33D?style=flat&logo=fastapi&logoColor=FFFFFF"><img src="https://img.shields.io/badge/-AWS%20RDS-F29111?style=flat&logo=amazon&logoColor=FFFFFF"><img src="https://img.shields.io/badge/-AWS%20Elastic%20Beanstalk-F29111?style=flat&logo=amazon&logoColor=FFFFFF"><img src="https://img.shields.io/badge/-AWS%20SageMaker-F29111?style=flat&logo=amazon&logoColor=FFFFFF"><img src="https://img.shields.io/badge/-Hadoop-red?style=flat&logo=apachehadoop&logoColor=white"><img src="https://img.shields.io/badge/-Apache%20Spark-F29111?style=flat&logo=apachespark&logoColor=FFFFFF">
 
 ---
 
