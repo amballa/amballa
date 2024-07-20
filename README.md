@@ -1,6 +1,6 @@
 ### Hello 👋 
 
-I am a young professional transitioning from mechanical engineering to a career in data analytics and business intelligence. As much as I love machining and building in the world of atoms, I am just as passionate about analyzing and modeling in the world of bits. With the abundance of data in our modern world, the possibilities for discovery are endless. I am looking to join a data-driven company with a strong mission and opportunities to apply all that I have learned about data science and statistics.
+I am a young professional transitioning from mechanical engineering to a career in data analytics and software engineering. As much as I love machining and building in the world of atoms, I am just as passionate about analyzing and modeling in the world of bits. With the abundance of data in our modern world, the possibilities for discovery are endless. I am looking to join a data-driven company with a strong mission and opportunities to apply all that I have learned about data science and statistics.
 
 My technical skills include programming using Python, building web applications, querying databases, exploratory data analysis, creating intuitive visualizations, building data pipelines, tuning machine learning models, and more. A more detailed list can be found on LinkedIn. Email is the best way to reach me. I look forward to hearing from you!
 
